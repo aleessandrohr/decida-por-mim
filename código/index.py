@@ -1,4 +1,4 @@
-from funções import *
+from código.funções import *
 from random import randint
 
 respostas = ['Sim', 'Não', 'Não deve', 'Deve', 'Talvez sim', 'Talvez não', 'Seria bom', 'Seria ruim', 'Dane-se', 'Yes', 'No', 'Claro que sim', 'Claro que não', 'Ok']
