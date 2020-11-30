@@ -1,2 +1,2 @@
 # Decida por mim
- Progama que gera repostas aleatórias.
+ Programa que gera repostas aleatórias.
