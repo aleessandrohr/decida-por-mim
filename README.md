@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/version-1.0-blue" alt="versão">
 </p>
 
-Programa feito em python que gera repostas aleatórias..
+Programa feito em python que gera repostas aleatórias.
 
 ## Obtendo o código
 
